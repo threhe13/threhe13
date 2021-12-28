@@ -2,7 +2,7 @@
 - 👀 I’m interested in Music, Audio Processing, Data Analysis
 - 🌱 I’m currently learning Speech Enhancement... (and Speech Synthesizer)
 - 💞️ I’m looking to collaborate on Everybody
-- 📫 How to reach me threhe13@gmail.com
+- 📫 How to reach me kimsh@deep-hearing.com
 
 <!---
 threhe13/threhe13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
