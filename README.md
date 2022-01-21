@@ -1,11 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Developer%20SH&fontSize=50)
 
+<style>
+#greeting {
+    font-size: 30px;
+}
+
+#greeting-name {
+    font-size: 18px;
+}
+</style>
+
 <div align='center'>
-    <span style='font-size:30px;'>🍷 Hello, Everyone</span><br>
-    <span style='font-size:18px;'>I'm SungHyun Kim👋🏻 (@threhe13)</span>
+<span id='greeting' style='font-size:30px'>🍷 Hello, Everyone</span><br>
+<span id='greeting-name' style='font-size:18px'>I'm SungHyun Kim👋🏻 (@threhe13)</span>
 <div>
 <br>
-<p style='font-size:24px;'>
+<p style='font-size:24px'>
     Introduce myself
 </p>
 <div align='left'>
