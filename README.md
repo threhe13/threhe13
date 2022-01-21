@@ -3,7 +3,6 @@
 <div align='center'>
     <span style='font-size:30px;'>🍷 Hello, Everyone</span><br>
     <span style='font-size:18px;'>I'm SungHyun Kim👋🏻 (@threhe13)</span>
-    <span></span>
 <div>
 <br>
 <p style='font-size:24px;'>
@@ -14,7 +13,7 @@
     - 🎛️ I’m interested in Audio Processing
     - 📖 I’m currently learning Speech Enhancemence in DeepHearing
     - 💬 I’m looking to communicate on Everybody
-    - ✉️ If you want to contact me, please send e-mail to kimsh@deep-hearing.com
+    - 📬 If you want to contact me, please send e-mail to kimsh@deep-hearing.com
 
 <div>
 
@@ -26,7 +25,8 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.png?&style=for-the-badge&logo=Python&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.png?&style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396.png?&style=for-the-badge&logo=Java&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Javascript-F7DF1E.png?&style=for-the-badge&logo=Java&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Javascript-F7DF1E.png?&style=for-the-badge&logo=Javascript&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Dart-0175C2.png?&style=for-the-badge&logo=Dart&logoColor=white">
 
 </div>
 
