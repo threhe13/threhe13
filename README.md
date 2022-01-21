@@ -1,12 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Developer%20SH&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Developer%20SH&fontSize=80)
 
 <div align='center'>
-    <h2>🍷 Hello, Everyone</h2>
-    <h3>I'm SungHyun Kim👋🏻 (@threhe13)</h3>
+    <h3>🍷 Hello, Everyone</h3>
+    <span>I'm SungHyun Kim👋🏻 (@threhe13)</span>
 <div>
 <br>
 
-## Introduce myself 🙋🏻‍♂️
+### Introduce myself 🙋🏻‍♂️
 <div align='left' style='font-size:12px;'>
 
     - 🎛️ I’m interested in Audio Processing
@@ -15,10 +15,10 @@
     - 📬 If you want to contact me, please send e-mail to kimsh@deep-hearing.com
 <div>
 <div align='center'>
-    <h2>💻 Tech Skills</h2>
+    <h3>💻 Tech Skills</h3>
 <div>
 <div align='center'>
-    <h3>Language</h3>
+    <p>Language</p>
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"><br>
@@ -27,7 +27,7 @@
 </div>
 <br>
 <div align='center'>
-    <h3>Stack</h3>
+    <p>Stack</p>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"><br>
     <img alt="Numpy" src="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white">
@@ -40,13 +40,12 @@
 </div>
 <br>
 <div align='center'>
-    <h3>Tools</h3>
+    <p>Tools</p>
     <img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white">
     <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-000000.svg?&style=for-the-badge&logo=CodeSandbox&logoColor=white"><br>
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white">
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"><br>
-    
 </div>
 <br>
 
