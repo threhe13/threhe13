@@ -9,10 +9,10 @@
 ## Introduce myself 🙋🏻‍♂️
 <div align='left' style='font-size:12px;'>
 
-- 🎛️ I’m interested in Audio Processing
-- 📖 I’m currently learning Speech Enhancemence in DeepHearing
-- 💬 I’m looking to communicate on Everybody
-- 📬 If you want to contact me, please send e-mail to kimsh@deep-hearing.com
+    - 🎛️ I’m interested in Audio Processing
+    - 📖 I’m currently learning Speech Enhancemence in DeepHearing
+    - 💬 I’m looking to communicate on Everybody
+    - 📬 If you want to contact me, please send e-mail to kimsh@deep-hearing.com
 <div>
 <div align='center'>
     <h2>💻 Tech Skills</h2>
@@ -47,19 +47,17 @@
 <div align='center'>
     <h3>Tools</h3>
     <img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white">
+    <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-000000.svg?&style=for-the-badge&logo=CodeSandbox&logoColor=white"><br>
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white">
     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white">
-    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"><br>
+    <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"><br>
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white">
     <img alt="VLC media player" src="https://img.shields.io/badge/VLC media player-FF8800.svg?&style=for-the-badge&logo=VLC media player&logoColor=white">
     <img alt="Audacity" src="https://img.shields.io/badge/Audacity-0000CC.svg?&style=for-the-badge&logo=Audacity&logoColor=white">
-    <img alt="CodeSandbox" src="https://img.shields.io/badge/CodeSandbox-000000.svg?&style=for-the-badge&logo=CodeSandbox&logoColor=white">
-
+    
 </div>
+<br>
 
-<!---
-threhe13/threhe13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthrehe13&count_bg=%23D2D943&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
