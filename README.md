@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Developer%20SH&fontSize=50)
 
 <div align='center'>
-#🍷 Hello, Everyone</span><br>
-###I'm SungHyun Kim👋🏻 (@threhe13)</span>
+# 🍷 Hello, Everyone</span><br>
+### I'm SungHyun Kim👋🏻 (@threhe13)</span>
 <div>
 <br>
 <p style='font-size:24px'>
